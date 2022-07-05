@@ -19,7 +19,7 @@
 <a href="https://kaggle.com/omarkhaledahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omarkhaledahmed" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100004997250980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100004997250980" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omgits0mar?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omgits0mar?hr_r=1" height="30" width="40" /></a>
-<a href="https://app.datacamp.com/profile/0markhaledd29" target="blank"><img align="center" src="(https://www.google.com/search?q=datacamp+png+online+href&sxsrf=ALiCzsaOVkvVf2Eeb9JwOERMFcVJNFBPvA:1656990474788&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiPkJXF4uD4AhVqxYUKHZzrB5kQ_AUoAXoECAEQAw&biw=1740&bih=829&dpr=1.1#imgrc=xMGSB8OXZx_zTM)" alt="0markhaledd29" height="30" width="40" /></a>
+<a href="https://app.datacamp.com/profile/0markhaledd29" target="blank"><img align="center" src="https://www.google.com/search?q=datacamp+png+online+href&sxsrf=ALiCzsaOVkvVf2Eeb9JwOERMFcVJNFBPvA:1656990474788&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiPkJXF4uD4AhVqxYUKHZzrB5kQ_AUoAXoECAEQAw&biw=1740&bih=829&dpr=1.1#imgrc=xMGSB8OXZx_zTM)](https://avatars.githubusercontent.com/u/6276968?s=200&v=4" alt="0markhaledd29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
