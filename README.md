@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Omar Khaled</h1>
-<h3 align="center">A passionate Junior Computer Science student, interested in ML, DL & Data science</h3>
+<h1 align="center">Hi there 👋, I'm Omar Khaled</h1>
+<h3 align="center">I'm a senior 4th year undergraduate student in Computer Science at Ain Shams University. My passion lies in machine learning, data science, and software engineering intelligence, and I've worked on a number of projects in these areas and much more.</h3>
 
-- 🔭 I’m currently working on **Improving my portfolio**
+- 🔭 I’m currently working on **My Graduation Project**
 
-- 🌱 I’m currently learning **Backend, ODB.NET, Entity framework & Data visualization.**
-
-- 👯 I’m looking to collaborate on **more creative projects**
-
-- 💬 Ask me about **Machine learning.**
-
-- 📫 How to reach me **0mar.khaledd29@gmail.com**
+- 🌱 I’m currently learning **NLP and DeepLearning**
 
 - ⚡ Fun fact **I don't like mangos.**
+
+## 🔭 Projects
+
+- [Face Emotion Recognition](https://github.com/omgits0mar/Face-Emotion-Recognition) 🤖 - detect the person face then recognize his/her emotions based on facial expressions 
+- [Image Quantization](https://github.com/omgits0mar/ImageQuantization) 🧠 - Quantize the size of image using algorithmic based criteria as Graphs, clustering and segmentation
+- [Signature Verification and detection](https://github.com/omgits0mar/project3) 🚀 - yet to be anounced!!
+
+## 🏆 Achievements
+
+- 🎉 Ranked top 10% in a computer vision kaggle competition ⭐️
+- 👨‍💻 Participated in 2 hackathons
+- 🥇 Won 2 awards in machine learning competitions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-khaled-2b62001b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-khaled-2b62001b3/" height="30" width="40" /></a>
 <a href="https://kaggle.com/omarkhaledahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omarkhaledahmed" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100004997250980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100004997250980" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omgits0mar?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omgits0mar?hr_r=1" height="30" width="40" /></a>
-<a href="https://app.datacamp.com/profile/0markhaledd29" target="blank"><img align="center" src="https://www.google.com/search?q=datacamp+png+online+href&sxsrf=ALiCzsaOVkvVf2Eeb9JwOERMFcVJNFBPvA:1656990474788&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiPkJXF4uD4AhVqxYUKHZzrB5kQ_AUoAXoECAEQAw&biw=1740&bih=829&dpr=1.1#imgrc=xMGSB8OXZx_zTM)](https://avatars.githubusercontent.com/u/6276968?s=200&v=4" alt="0markhaledd29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
