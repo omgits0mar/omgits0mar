@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Omar Khaled</h1>
-<h3 align="center">I'm a senior 4th year undergraduate student in Computer Science at Ain Shams University. My passion lies in machine learning, data science, and software engineering intelligence, and I've worked on a number of projects in these areas and much more.</h3>
+<h3 align="center">I'm a senior 4th year undergraduate student in Computer Science at Ain Shams University. My passion lies in machine learning, data science, and software engineering, and I've worked on a number of projects in these areas.</h3>
 
 - 🔭 I’m currently working on **My Graduation Project**
 
