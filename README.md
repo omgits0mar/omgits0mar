@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Graduation Project**
 
-- 🌱 I’m currently learning **NLP and DeepLearning**
+- 🌱 I’m currently learning **NLP and GANS**
 
 - ⚡ Fun fact **I don't like mangos.**
 
@@ -11,13 +11,13 @@
 
 - [Face Emotion Recognition](https://github.com/omgits0mar/Face-Emotion-Recognition) 🤖 - detect the person face then recognize his/her emotions based on facial expressions 
 - [Image Quantization](https://github.com/omgits0mar/ImageQuantization) 🧠 - Quantize the size of image using algorithmic based criteria as Graphs, clustering and segmentation
-- [Signature Verification and detection](https://github.com/omgits0mar/project3) 🚀 - yet to be anounced!!
+- [Signature Verification and detection](https://www.kaggle.com/datasets/omgits0mar/signature-verification-and-identification) 🚀 - Classify and Verifies the signature for security checkings
 
 ## 🏆 Achievements
 
 - 🎉 Ranked top 10% in a computer vision kaggle competition ⭐️
-- 👨‍💻 Participated in 2 hackathons
-- 🥇 Won 2 awards in machine learning competitions
+- 👨‍💻 Participated in 4 hackathons
+- 🥇 Won 5 awards in machine learning competitions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
