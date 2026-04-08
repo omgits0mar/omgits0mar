@@ -136,17 +136,13 @@ class OmarKhaled:
 
 <div align="center">
 
-<!-- Option A: External services (current - with cache fix) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omgits0mar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Omar's GitHub Stats" />
+<img width="100%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/3-stats.svg" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=omgits0mar&theme=tokyonight&hide_border=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgits0mar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-
-<!-- Option B: Static cards (uncomment after enabling GitHub Action) -->
-<!-- <img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/0-profile-details.svg" /> -->
-<!-- <img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/3-stats.svg" /> -->
-<!-- <img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" /> -->
-<!-- <img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" /> -->
+<img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 </div>
 
