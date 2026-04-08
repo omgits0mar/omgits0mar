@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Khaled%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Real-Time%20Systems&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Khaled%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Agentic-AI%20Workflows&descSize=18&descAlignY=52"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+production+AI+systems+that+save+lives+%F0%9F%9A%A6;From+RTSP+streams+to+real-time+inference+on+H100s+%F0%9F%94%A5;3%2B+years+shipping+ML+in+production+%F0%9F%9A%80)](https://git.io/typing-svg)
