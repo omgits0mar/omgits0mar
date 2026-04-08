@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Khaled%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Agentic-AI%20Workflows&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Khaled%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20Real-Time%20Systems&descSize=18&descAlignY=52"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+production+AI+systems+that+save+lives+%F0%9F%9A%A6;From+RTSP+streams+to+real-time+inference+on+H100s+%F0%9F%94%A5;3%2B+years+shipping+ML+in+production+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -109,19 +109,18 @@ class OmarKhaled:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/omgits0mar/Face-Emotion-Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omgits0mar&repo=Face-Emotion-Recognition&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/omgits0mar/ImageQuantization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omgits0mar&repo=ImageQuantization&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</a>
-
-</div>
-
 ### 🎓 Graduation Project — Smart Vision for Visually Impaired `Grade: A+ | Ranked 5th`
 > A 6-model AI system: trigger words, object detection by search, depth estimation, image captioning, face recognition, and Egyptian currency detection — integrated in a Flutter app with Flask backend.
+
+<div align="center">
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| 🤖 [Face Emotion Recognition](https://github.com/omgits0mar/Face-Emotion-Recognition) | Detect faces and classify emotions from expressions | `OpenCV` `CNN` `TensorFlow` |
+| 🧠 [Image Quantization](https://github.com/omgits0mar/ImageQuantization) | Image compression via color quantization with graph algorithms | `C#` `Prim's MST` `Clustering` |
+| ✍️ [Signature Verification](https://www.kaggle.com/datasets/omgits0mar/signature-verification-and-identification) | Classify and verify signatures using Siamese Networks | `VGG-16` `Siamese Net` `Keras` |
+
+</div>
 
 ### 🏆 Highlights
 - 🥇 **3rd Best** Computer Vision Project — Ain Shams University
@@ -144,15 +143,7 @@ class OmarKhaled:
 <img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 <img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
-</div>
-
----
-
-## 🏆 Productive Time
-
-<div align="center">
-
-<img width="50%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
 
