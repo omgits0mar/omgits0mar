@@ -148,11 +148,11 @@ class OmarKhaled:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Productive Time
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omgits0mar&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="50%" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
 
