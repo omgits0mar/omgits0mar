@@ -112,13 +112,29 @@ class OmarKhaled:
 ### 🎓 Graduation Project — Smart Vision for Visually Impaired `Grade: A+ | Ranked 5th`
 > A 6-model AI system: trigger words, object detection by search, depth estimation, image captioning, face recognition, and Egyptian currency detection — integrated in a Flutter app with Flask backend.
 
+### ⭐ Most-Starred Repositories
+
+<!-- top-repos:start -->
+
 <div align="center">
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| 🤖 [Face Emotion Recognition](https://github.com/omgits0mar/Face-Emotion-Recognition) | Detect faces and classify emotions from expressions | `OpenCV` `CNN` `TensorFlow` |
-| 🧠 [Image Quantization](https://github.com/omgits0mar/ImageQuantization) | Image compression via color quantization with graph algorithms | `C#` `Prim's MST` `Clustering` |
-| ✍️ [Signature Verification](https://www.kaggle.com/datasets/omgits0mar/signature-verification-and-identification) | Classify and verify signatures using Siamese Networks | `VGG-16` `Siamese Net` `Keras` |
+<a href="https://github.com/omgits0mar/ai-engineer-jobs"><img width="62%" alt="ai-engineer-jobs" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-1.svg"/></a>
+
+<a href="https://github.com/omgits0mar/Egyptian_currency_detection"><img width="49%" alt="Egyptian_currency_detection" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-2.svg"/></a>
+<a href="https://github.com/omgits0mar/CAPTCHA-Recognition"><img width="49%" alt="CAPTCHA-Recognition" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-3.svg"/></a>
+
+<a href="https://github.com/omgits0mar/awesome-claude-code-extensions"><img width="49%" alt="awesome-claude-code-extensions" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-4.svg"/></a>
+<a href="https://github.com/omgits0mar/Text_Object_segmentation-Depth_estimation"><img width="49%" alt="Text_Object_segmentation-Depth_estimation" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-5.svg"/></a>
+
+</div>
+
+<!-- top-repos:end -->
+
+<div align="center">
+
+<sub>Cards regenerate nightly from the GitHub API — ranking and star counts update themselves.</sub>
+
+<sub>Also on Kaggle: <a href="https://www.kaggle.com/datasets/omgits0mar/signature-verification-and-identification">Signature Verification &amp; Identification</a> — Siamese network over VGG-16.</sub>
 
 </div>
 
