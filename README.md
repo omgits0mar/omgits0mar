@@ -121,9 +121,9 @@ class OmarKhaled:
 <a href="https://github.com/omgits0mar/ai-engineer-jobs"><img width="62%" alt="ai-engineer-jobs" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-1.svg"/></a>
 
 <a href="https://github.com/omgits0mar/Egyptian_currency_detection"><img width="49%" alt="Egyptian_currency_detection" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-2.svg"/></a>
-<a href="https://github.com/omgits0mar/CAPTCHA-Recognition"><img width="49%" alt="CAPTCHA-Recognition" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-3.svg"/></a>
+<a href="https://github.com/omgits0mar/awesome-claude-code-extensions"><img width="49%" alt="awesome-claude-code-extensions" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-3.svg"/></a>
 
-<a href="https://github.com/omgits0mar/awesome-claude-code-extensions"><img width="49%" alt="awesome-claude-code-extensions" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-4.svg"/></a>
+<a href="https://github.com/omgits0mar/CAPTCHA-Recognition"><img width="49%" alt="CAPTCHA-Recognition" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-4.svg"/></a>
 <a href="https://github.com/omgits0mar/Text_Object_segmentation-Depth_estimation"><img width="49%" alt="Text_Object_segmentation-Depth_estimation" src="https://raw.githubusercontent.com/omgits0mar/omgits0mar/main/top-repos-output/card-5.svg"/></a>
 
 </div>
